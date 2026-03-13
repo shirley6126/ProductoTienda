@@ -1,4 +1,4 @@
-Sistema de Inventario de Tienda - C++
+Lista de productos de una tienda - C++
 
 Este programa permite gestionar productos utilizando vectores de estructuras.
 
